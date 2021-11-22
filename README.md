@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @nhaninasser
-- 👀 I’m interested in surpassing my limits ...
-- 🌱 I’m currently learning coding ...
-- 💞️ I’m looking to collaborate on bootcamp ...
-- 📫 You can reach me by email at nhani.nasser@gmail.com ...
+### Hi, I’m Nasser Nasser
 
-<!---
-nhaninasser/nhaninasser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## My Goals
+ - To become someone who is well versed in all software development programs
+ - 
+
